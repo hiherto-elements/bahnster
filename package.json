@@ -1,0 +1,11 @@
+{
+  "name": "@hiherto-elements/bahnster",
+  "version": "1.0.0",
+  "description": "A collection of api wrappers and tools for deutsche bahn train network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
